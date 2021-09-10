@@ -1,0 +1,10 @@
+name: Randomized effects
+author: GovernedPie
+version: 1.0.0
+api: 3.0.0
+description: Simple randomized effect plugin
+main: effects\main
+
+commands:
+  RE:
+    description: Using /RE gives you a randomized effect that lasts for 5 seconds!
